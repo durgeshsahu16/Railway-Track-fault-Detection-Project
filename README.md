@@ -1,4 +1,4 @@
-# Railway Track Fault Detection
+# Railway Track Fault Detection Project
 
 <b>GOAL</b>
 
@@ -84,6 +84,6 @@ It contains more images than previous benchmarks, and the images have a higher r
 
 <b>Author</b>
 
-AAMIR P
+Durgesh Kumar sahu
 
 https://github.com/Best-forever-003
