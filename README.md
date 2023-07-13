@@ -83,7 +83,5 @@ It contains more images than previous benchmarks, and the images have a higher r
 ![](https://github.com/Best-forever-003/ML-ProjectKart/blob/main/Railway%20Track%20Fault%20Detection/Images/output2.jpeg)
 
 <b>Author</b>
-
 Durgesh Kumar sahu
 
-https://github.com/Best-forever-003
